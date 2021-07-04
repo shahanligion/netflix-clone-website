@@ -1,0 +1,21 @@
+button{
+    background-color:blue;
+    color: cornsilk
+}
+#para
+{color:cyan;
+font-size: larger;}
+div{
+    background-color: darkcyan;
+    width: 400px;
+    height: 200px;
+    margin-top: 80px;
+    margin-left: 100px;
+    padding-left: 2ch;
+    border:6px solid;
+    border-color: darkred;
+
+}.white{
+    color:deepskyblue
+
+}

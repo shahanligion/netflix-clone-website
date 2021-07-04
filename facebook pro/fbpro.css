@@ -1,0 +1,69 @@
+.head{
+    width: 100%;
+    height:90px;
+    background-color:#3b5998;
+}body{
+    margin: 0;
+    font-family:Helvetica, Arial, sans-serif ;
+}
+.logo{
+    width:50%;
+    padding-top: 35px;
+    float: left;
+}
+.login{
+    width:50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size:35px;
+    font-weight: bold;
+    text-decoration:none;
+    font-family: Helvetica, Arial, sans-serif;
+   
+    margin-left: 200px;
+}
+.login-label{
+    color: #fff;
+    padding-top: 12px;
+    float: left;
+    font-size: 15px;
+}
+.forgotten{
+    color: #9cb4d8;
+    
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 10px;
+}
+.login-controls{
+    margin-left: 200px;
+    float: left;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.loginblue{
+    background: #4267b2;
+    color: #fff;
+    font-family: Helvetica, Arial, sans-serif;
+    border-color: #29487d;
+    cursor: pointer;
+
+}.loginblue:hover{
+    background-color: crimson;
+}
+.main-body{
+    background-color: #ebedf0;
+    width: 100%;
+    height: 3px;
+}
+.content{
+    margin-left: 500px;
+    
+}
+
+
+
+    
+
+
+
